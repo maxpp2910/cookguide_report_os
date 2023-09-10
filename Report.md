@@ -1,3 +1,307 @@
+*Capítulo II: Requirements Elicitation & Analysis*
+
+*2.1. Competidores*
+
+*2.1.1. Análisis competitivo*
+
+
+<table><tr><th colspan="6" valign="top"><b>Competitive Analysis Landscape</b> </th></tr>
+<tr><td valign="top">¿Por qué llevar a cabo este análisis? </td><td colspan="5" valign="top">Realizaremos este análisis para evaluar a nuestros competidores directos y generar estrategias que permitan a nuestra solución tener ventaja en el mercado. </td></tr>
+<tr><td valign="top"> </td><td valign="top"> </td><td valign="top"><b>CookGuide</b> </td><td valign="top"><b>CookPad</b> </td><td valign="top"><b>Ekilu</b> </td><td valign="top"><b>Tasty</b> </td></tr>
+<tr><td rowspan="2">Perfil </td><td valign="top">Overview </td><td valign="top">Aplicación diseñada para ayudar a estudiantes que desean aprender a cocinar. </td><td valign="top">Plataforma en línea para buscar y compartir recetas caseras. </td><td valign="top">Plataforma en línea de recetas saludables y personalizables. </td><td valign="top">Plataforma en línea de recetas prácticas y creativas, enfocada en el contenido visual atractivo. </td></tr>
+<tr><td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes? </td><td valign="top"><p>Los usuarios con experiencia en la cocina pueden compartir y vender sus propios recetarios. </p><p> </p><p>Los estudiantes podrán personalizar las recetas de acuerdo a sus preferencias y solicitar la preparación de una receta, que será enviada por delivery. </p></td><td valign="top">Se enfoca en recetas elaboradas por la comunidad. Además, los usuarios pueden buscar recetas por ingredientes o consejos para cocinar. </td><td valign="top"><p>Promueve la alimentación consciente y saludable. Permite planificar las comidas y buscar recetas por ingredientes. </p><p>En su versión premium, cuenta con un menú semanal elaborado por nutricionistas, listas de compra automáticas e información nutricional de los platos. </p></td><td valign="top">Destaca por su contenido visual atractivo que sirve de inspiración para los usuarios. Sus vídeos suelen ser cortos y se pueden personalizar las porciones de las recetas.  </td></tr>
+<tr><td rowspan="2">Perfil de Marketing </td><td valign="top">Mercado objetivo </td><td valign="top">Estudiantes universitarios que desean aprender a cocinar o preparar nuevos platillos y disponen de poco tiempo. </td><td valign="top">Personas a las que les gusta cocinar. Aficionados a la cocina. </td><td valign="top">Personas que buscan recetas fáciles adaptadas a sus ingredientes disponibles. </td><td valign="top">Personas de diversas edades que buscan recetas simples y rápidas. </td></tr>
+<tr><td valign="top">Estrategias de marketing </td><td valign="top"><p>Participación activa en redes sociales. </p><p> </p><p>Anuncios en las plataformas más utilizadas por los jóvenes. </p></td><td valign="top">Fomenta la participación en su plataforma, en la que los usuarios pueden reaccionar a las recetas de otros y compartir imágenes de las recetas creadas.  </td><td valign="top">Participación activa en redes sociales, donde se publican videos de recetas y contenido sobre la aplicación. </td><td valign="top"><p>Creación de contenido visual atractivo en redes sociales, lo que le permite conseguir seguidores. </p><p>También realiza colaboraciones con chefs y celebridades, concursos entre los usuarios, etc. </p></td></tr>
+<tr><td rowspan="3">Perfil de Producto </td><td valign="top">Productos & Servicios </td><td valign="top"><p>Plataforma para compartir y comprar recetas.  </p><p> </p><p>Servicio de preparación de recetas a pedido. </p></td><td valign="top">Plataforma en línea para compartir recetas caseras y crear listas de compras. </td><td valign="top">Plataforma de búsqueda de recetas basadas en ingredientes y preferencias. </td><td valign="top">Plataforma de contenido en línea de recetas. </td></tr>
+<tr><td valign="top">Precios & Costos </td><td valign="top"> </td><td valign="top">Es una plataforma gratuita. Obtiene ingresos por publicidad.</td><td valign="top">Cuenta con una versión gratuita. La versión de pago tiene un costo de suscripción de 9.99 € mensual o  49.99 € anual.</td><td valign="top">Es una plataforma gratuita. Obtiene ingresos por publicidad y venta de productos (libros de cocina).</td></tr>
+<tr><td valign="top">Canales de distribución (Web y/o Móvil) </td><td valign="top"><p>Aplicaciones móviles (iOS, Android) y sitio web. </p><p> </p></td><td valign="top">Aplicaciones móviles (iOS, Android) y sitio web. </td><td valign="top">Aplicaciones móviles (iOS, Android) y sitio web. </td><td valign="top">Redes sociales, aplicaciones móviles (iOS, Android) y sitio web. </td></tr>
+<tr><td rowspan="4">Análisis SWOT </td><td valign="top">Fortalezas </td><td valign="top"><p>Los estudiantes pueden recibir muestras de las recetas por delivery, lo que hace la aplicación más atractiva. </p><p> </p><p>Función de filtrado de recetas según preferencias y alimentos. </p><p></p><p>Flexibilidad para que los usuarios creen sus propias recetas y contenido.</p><p></p><p>` `Uso de tecnología para una experiencia personalizada.</p><p></p><p>  </p></td><td valign="top"><p>Amplia variedad de recetas caseras compartidas por los usuarios. </p><p> </p><p>Comunidad muy activa. </p><p> </p><p>Permite a los usuarios interactuar con reacciones, comentarios y contenido multimedia. </p><p> </p><p> </p></td><td valign="top"><p>Permite buscar y planificar recetas personalizadas. </p><p> </p><p>Posibilidad de contar con un profesional para la elaboración del menú. </p><p> </p><p>Cálculo de ingredientes de acuerdo a la porción seleccionada. </p><p>Las recetas son compartidas por el equipo de Ekilu, lo que garantiza su calidad. </p><p> </p></td><td valign="top"><p>Contenido de alta calidad en la plataforma y redes sociales. </p><p> </p><p>Cuenta con una gran cantidad de usuarios. </p><p> </p><p>Comunidad muy activa. </p><p> </p><p>Enfoque en recetas prácticas y atractivas. </p><p> </p><p>Cálculo de ingredientes de acuerdo a la porción seleccionada. </p><p> </p><p>Las recetas son compartidas por el equipo de Tasty, lo que garantiza su calidad. </p><p> </p></td></tr>
+<tr><td valign="top">Debilidades </td><td valign="top"><p>Gran dependencia de la comunidad de usuarios. </p><p> </p><p>Desafíos logísticos para la entrega de los pedidos. </p><p> </p><p>Dificultad para filtrar todas las recetas compartidas por los usuarios. </p></td><td valign="top"><p>Gran dependencia de la comunidad de usuarios.  </p><p> </p><p>Los usuarios pueden invertir mucho tiempo en buscar una receta debido a la gran cantidad de opciones. </p><p> </p><p> </p></td><td valign="top"><p>Los usuarios no pueden compartir recetas y la interacción entre ellos es limitada.</p><p></p><p>Tiene menos recetas que otras plataformas similares.</p></td><td valign="top">Los usuarios no pueden publicar recetas directamente. </td></tr>
+<tr><td valign="top">Oportunidades </td><td valign="top"><p>Colaboraciones con instituciones educativas para llegar al público objetivo. </p><p> </p><p>Facilidad de expansión de los servicios (delivery). </p><p></p><p>Aprovechar herramientas tecnológicas para añadir funcionalidades a la aplicación.</p><p></p><p>Nuestro segmento objetivo tiene interés en aplicaciones similares </p></td><td valign="top"><p>Capacidad de expansión a nivel internacional. </p><p></p><p>Adopción de tecnología para la búsqueda de recetas y creación de listas de compras.</p><p></p><p> </p></td><td valign="top"><p>Las personas valoran la alimentación saludable y consciente.</p><p></p><p>Gran demanda de planificación de comidas.</p><p></p><p>Alianzas con profesionales de la salud para atraer más usuarios.</p></td><td valign="top"><p>Capacidad de expansión a nivel internacional. </p><p> </p><p>Colaboración con chefs, celebridades e influencers que ofrecen contenido exclusivo. </p><p> </p></td></tr>
+<tr><td valign="top">Amenazas </td><td valign="top"><p>Competencia de otras aplicaciones reconocidas. </p><p> </p><p>Cambios en las preferencias de los usuarios. </p><p> </p><p>Perder la confianza de los estudiantes si ocurren problemas al comprar recetas o solicitar pedidos. </p></td><td valign="top"><p>Competencia de otras plataformas similares que tienen contenido más atractivo. </p><p> </p><p>Cambios en las preferencias de los usuarios. </p><p> </p><p> </p><p> </p></td><td valign="top"><p>` `Competencia de otras plataformas similares que ofrecen algunas características de la versión premium de manera gratuita.</p><p></p><p>Cambios en las preferencias de los usuarios. </p></td><td valign="top"><p>Competencia de otras plataformas y aplicaciones similares. </p><p> </p><p>Cambios en las preferencias de los usuarios. </p></td></tr>
+</table>
+
+2\.1.2. Estrategias y tácticas frente a competidores.
+
+
+||**Oportunidades**|**Amenazas**|
+| :- | :-: | :-: |
+||<p>**O1:** Colaboraciones con instituciones educativas para llegar al público objetivo. </p><p>**O2:** Facilidad de expansión de los servicios (delivery). </p><p>**O3:** Aprovechar herramientas tecnológicas para añadir funcionalidades a la aplicación.</p><p>**O4:** Nuestro segmento objetivo tiene interés en aplicaciones similares</p>|<p>**A1:** Competencia de otras aplicaciones conocidas. </p><p>**A2:** Cambios en las preferencias de los usuarios. </p><p>**A3:** Perder la confianza de los estudiantes si ocurren problemas al comprar recetas o solicitar pedidos.</p><p></p>|
+|**Fortalezas**|**Estrategias FO (Ofensivas)**|**Estrategias FA (Defensivas)**|
+|<p>**F1:** Los estudiantes pueden recibir muestras de las recetas por delivery, lo que hace la aplicación más atractiva. </p><p>**F2:** Función de filtrado de recetas según preferencias y alimentos. </p><p>**F3:** Flexibilidad para que los usuarios creen sus propias recetas y contenido.</p><p>**F4:** Uso de tecnología para una experiencia personalizada.</p>|<p>**FO1:** Permitir que los usuarios vinculen su perfil con sus redes sociales para mejorar la visibilidad de la aplicación (O4,F3)</p><p>**FO2:** Implementar recomendaciones personalizadas en base al historial de búsqueda del usuario (O3,F4)</p>|<p>**FA1:** Diversificar el contenido, incluyendo recetas típicas de diversos países y otras opciones según las tendencias de los usuarios (A2,F2)</p><p>**FA2:** Incluir recetas exclusivas de pago de Chefs (A1,F2)</p><p>**FA3:** Integrar los servicios de aplicaciones de delivery conocidas para permitir el monitoreo en tiempo real y garantizar la calidad de los envíos  (A3, F1)</p>|
+|**Debilidades**|**Estrategias DO (Reorientación)**|**Estrategias DA (Supervivencia)**|
+|<p>**D1:** Gran dependencia de la comunidad de usuarios. </p><p>**D2:** Desafíos logísticos para la entrega de los pedidos. </p><p>**D3:** Dificultad para filtrar todas las recetas compartidas por los usuarios.</p>|<p>**DO1:** Implementar un sistema de calificación para las recetas basado en las experiencias de los usuarios (O4,D3)</p><p>**DO2:** Integrar los servicios de una de las aplicaciones de delivery más usadas para el envío de los pedidos (O2,D2)</p>|<p>**DA1:** Realizar revisiones frecuentes a los recetarios de pago e implementar sanciones para los usuarios con más calificaciones negativas (A3,D3)</p><p>**DA2:** Incluir blogs, consejos y sugerencias personalizadas en las recetas para mantener el interés de los usuarios (A2,D1)</p><p>**DA3:** Brindar una buena experiencia de usuario a través de una interfaz simple e intuitiva (A1,D1)</p>|
+
+
+
+
+
+
+
+
+
+
+
+
+*2.2. Entrevistas.*
+
+En esta parte del informe se comenzará con la investigación de los segmentos objetivos y se realizarán entrevistas para recopilar los datos y crear nuestro Needfinding.
+
+*2.2.1. Diseño de entrevistas.*
+
+Preguntas generales:
+
+1. ¿Cuál es tu nombre completo?
+1. ¿Cuál es tu edad?
+1. ¿En qué distrito vives? 
+1. ¿Cómo describirías tu personalidad?
+1. ¿Qué dispositivos usas con más frecuencia?
+1. ¿Qué marcas son tus favoritas?
+1. ¿Cuáles son los canales digitales o redes sociales que más utilizas?
+1. ¿Qué habilidades tienes?
+1. ¿En qué universidad estudias?
+
+*Segmento 1: Estudiantes universitarios (18-25 años)*
+
+1. ¿Con qué frecuencia cocinas en casa? ¿Qué tipo de comidas prefieres preparar?
+1. ¿Cuál es el principal desafío que enfrentas al cocinar en casa como estudiante?
+1. ¿Sueles buscar recetas en línea? ¿Qué te frustra más al seguir recetas en línea?
+1. ¿Te sientes cómodo/a sustituyendo ingredientes en una receta si no los tienes todos?
+1. ¿Qué tipo de información adicional te gustaría encontrar en una aplicación de recetas para ayudarte a cocinar mejor?
+1. ¿Estarías dispuesto/a a pagar por recetas personalizadas o con ingredientes alternativos que se adapten a tu nivel de habilidad y preferencias?
+1. ¿Prefieres seguir recetas en video o texto? ¿Por qué?
+1. ¿Cómo crees que una aplicación como esta podría mejorar tus habilidades culinarias y tu experiencia de cocinar en casa?
+
+*Segmento 2: Cocineros amateurs y profesionales (24-35 años)*
+
+1. ¿Cuánto tiempo dedicas a cocinar en casa o en tu trabajo como cocinero/a?
+1. ¿Qué te inspira a buscar nuevas recetas o a modificar las existentes?
+1. ¿Qué desafíos enfrentas al adaptar recetas a tus preferencias o a las de tus clientes?
+1. ¿Estarías dispuesto/a a pagar por recetas de alta calidad y bien documentadas?
+1. ¿Qué tipo de características te gustaría ver en una aplicación de recetas para profesionales?
+1. ¿Te interesaría compartir tus propias recetas en una plataforma de código abierto? ¿Por qué?
+1. ¿Qué opinas sobre la idea de ganar dinero compartiendo tus recetas en una plataforma como esta?
+1. ¿Qué recursos adicionales, como consejos de ingredientes o técnicas, consideras útiles en una aplicación de recetas?
+1. ¿Cómo crees que una aplicación como esta podría ayudarte a perfeccionar tus habilidades culinarias y a expandir tu repertorio de recetas?
+
+*2.2.2. Registro de entrevistas.*
+
+*​​Segmento 1: Estudiantes universitarios*
+
+*Entrevistado 1:*
+
+●  	Nombre y Apellido: Liliana Fu Ye
+
+●  	Edad: 22
+
+●  	Evidencia de la reunión:
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150537120251916398/image.png)
+
+
+
+●  	URL del video:[ ](https://youtu.be/v6MPh_1ESFY)[LIliana Fu - Estudiante.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117904_upc_edu_pe/EXOn4FNL-BhEplqKQ1Gb6C0Bn19hoZJEFZETtanznD0zgA?e=N8jhd0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+●  	Informe de Resumen sobre la entrevista:
+
+Liliana nos menciona que cocina solo 2 veces por semana y cocina cosas rápidas como pastas, sopas o cosas parecidas. Menciona también qué su principal problema es qué compra a veces de más y tiende a sobrar ingredientes qué posteriormente las bota. También menciona qué desearía que a la hora de ver tutoriales en internet, las instrucciones sean específicas y claras. Nos cuenta qué estaría dispuesta a pagar por aprender a cocinar en una aplicación siempre y cuando sea al detalle como se anticipa.
+
+*Entrevistado 2:* 
+
+●  	Nombre y Apellido: Piero Salvador Valverde Cora
+
+●  	Edad: 19
+
+●  	Evidencia de la reunión:
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150537179525812224/image.png)
+
+
+
+●  	URL del video:[ ](https://youtu.be/v6MPh_1ESFY)[Piero Valverde - Estudiante.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117904_upc_edu_pe/Ebgp0bRB4IpKm8VeAMubCdABeoyGqOyEIbgIxUZ3UqUPiA?e=MpbMQM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+●  	Informe de Resumen sobre la entrevista:
+
+Piero nos menciona que cocina 1 o 2 veces por semana y prefiere preparar comidas muy rápidas y fáciles. El principal desafío que él tiene dificultades a la hora de conseguir los ingredientes y decidir qué cocinar. Nos menciona también qué las recetas que él ha visto en internet no son completas o hay muchos anuncios. Nos cuenta que el quisiera el valor nutricional de los alimentos en una aplicación e indicaciones muy precisas. Finalmente menciona que estaría encantado con una aplicación.
+
+
+*Entrevistado 3:*
+
+●  	Nombre y Apellido: Nicolle Francesca Amarillo Alejos
+
+●  	Edad: 20
+
+●  	Evidencia de la reunión:
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150537235993739364/image.png)
+
+
+
+●  	URL del video:[ ](https://youtu.be/v6MPh_1ESFY)[Nicolle Amarillo - Estudiante.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117904_upc_edu_pe/EbNhtOQGqmFOnA8olsR43p4BHhCTyabf7SPTfO8nyPi8Zg?e=cZW1v1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+●  	Informe de Resumen sobre la entrevista:
+
+Nicolle nos comenta que para ella el tiempo es muy importante por ello hace recetas muy básicas y rápidas para cocinar, ya qué lo hace 3 veces por semana. Nos cuenta que en las recetas que encontró por internet se frustra porque a veces los videos solo corren por el tiempo qué tienen en redes sociales y no son tan específicos. Nos cuenta que saber qué ingrediente es el correcto para sustituir algo que no tenemos es muy importante para no variar el sabor. Ella menciona que una aplicación debe tener variedad como diferentes comidas para los diferentes tipos de personas. Finalmente ella estaría encantada con la aplicación.
+
+*Segmento 2: Cocineros amateurs y profesionales*
+
+*Entrevistado 1:*
+
+●  	Nombre y Apellido: Yessenia Sandra Vicente Manzanedo
+
+●  	Edad: 25
+
+●  	Evidencia de la reunión:
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150537334639566939/image.png)
+
+
+
+●  	URL del video:[ ](https://youtu.be/v6MPh_1ESFY)[Yessenia Vicente - Cocinera.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117904_upc_edu_pe/EbR-PXCGLSFBmsxeXfMC8isB4ju0Dn6jlggv3HUwK4gDlg?e=153h91&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+●  	Informe de Resumen sobre la entrevista:
+
+`    `Yessy nos comenta que cuenta como dificultad la mejor experiencia de las personas porque la crítica de los clientes le resulta muy importante ya que se dedica al servicio al cliente en cocina como vocación. Ella se encuentra interesada en formar parte de nuestro aplicativo porque le parece útil recibir ganancias y feedbacks de su trabajo como chef. Finalmente, ella considera que puede mejorar sus aptitudes profesionales recibiendo comentarios o agregados de los usuarios que se beneficien con el aprendizaje de su trabajo como futura chef.
+
+*Entrevistado 2:*
+
+●  	Nombre y Apellido: Lucy Arteaga Lopez
+
+●  	Edad: 24
+
+●  	Evidencia de la reunión:
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150537434656952391/image.png)
+
+
+
+●  	URL del video:[ ](https://youtu.be/v6MPh_1ESFY)[Lucy Arteaga - Cocinera.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117904_upc_edu_pe/ETWKtVDQ8KBFnVBJTmkdrVcBZiKbDJ0HodCzgEvS9ApWFg?e=QXGeUD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+●  	Informe de Resumen sobre la entrevista:
+
+Lucy nos menciona que trabaja en un restaurante “Corralito” cerca a su casa y que cocina 8 horas al día por 6 días a la semana. Su principal inspiración son sus clientes, hace recetas para el diferente gusto de sus clientes. Ella menciona qué si hubiera una calidad correcta de una receta pagaría con gusto el costo de ella. Ella menciona qué lo más importante en una aplicación son los comentarios, ya que ella puede mejorar a base de las recomendaciones de los clientes. Ella estaría dispuesta a compartir sus recetas para que pueda asi fomentar la cultura culinaria en la sociedad.
+
+*Entrevistado 3:*
+
+●  	Nombre y Apellido: Ìtalo Mendoza
+
+●  	Edad: 26
+
+●  	Evidencia de la reunión:
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150537489476501524/image.png)
+
+
+
+●  	URL del video:[ ](https://youtu.be/v6MPh_1ESFY)[Italo Mendoza - Cocinero.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117904_upc_edu_pe/EbihFMP6WChLgHDKEVs5_5MB00HOmJFSFHesyaKR7PgtRw?e=4lmlLL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+●  	Informe de Resumen sobre la entrevista:
+
+Italo es estudiante en curso de la carrera de cocina, apasionado de la innovación en nuevas recetas y/o adaptarlas según el cliente que le toque tratar ya que los cliente, según él, siempre buscan algo nuevo. Italo comenta que le gustaría una aplicación intuitiva e innovadora y que estaría de acuerdo en utilizar nuestra plataforma ya que obtendria ingresos extras,ayudaría a mas personas a esparcir sus conocimientos en cocina.  Finalmente, él considera que siempre se encuentra abierto a aprender y enseñar por lo que se encuentra muy interesado en encontrar un aplicativo que le permita interactuar con los clientes fácilmente.
+
+*2.2.3. Análisis de entrevistas.*
+
+*Segmento 1: Estudiantes universitarios*
+**
+
+**
+`     `Con respecto a este segmento objetivo y a base de las entrevistas realizadas podemos concluir que los estudiantes tienen un tiempo limitado y les cuesta seguir recetas por internet porque son limitadas a tiempo y a indicaciones no específicas para poder realizar, por lo que estarían dispuestos a realizar el pago en una aplicación como la nuestra qué registre la información concisa y con pasos específicos.
+**
+
+
+*Segmento 2: Cocineros amateurs y profesionales*
+
+Con respecto a las entrevistas realizadas a los chefs de nuestro segundo segmento objetivo se puede concluir que el 100% de los encuestados se encuentran de acuerdo en utilizar una plataforma de fácil acceso que les permita interactuar con los clientes y recibir feedbacks sobre su trabajo ya que consideran importante recibir comentarios o reacciones para tener en cuenta si su método de trabajo es el mejor. Además, los entrevistados consideran útil aprender en conjunto para mejorar como profesionales, es decir entre usuario y chef, y a la vez obtener ingresos extras.
+
+*2.3. Needfinding.*
+
+*2.3.1. User Personas.*
+
+*Estudiantes Universitarios:* 
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150115694705381447/image.png)
+
+*Cocineros amateurs y profesionales:*
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150115779837173800/image.png)
+
+
+
+
+*2.3.2. User Task Matrix.*
+
+*Estudiantes Universitarios:* 
+
+
+<table><tr><th rowspan="2" valign="top"><p>Task</p><p>Matrix</p></th><th colspan="2" valign="top">Liliana Fu</th><th colspan="2" valign="top">Piero Valverde</th><th colspan="2" valign="top">Nicol Amarillo</th></tr>
+<tr><td valign="top">Frecuencia</td><td valign="top">Importancia</td><td valign="top">Frecuencia</td><td valign="top">Importancia</td><td valign="top">Frecuencia</td><td valign="top">Importancia</td></tr>
+<tr><td valign="top">Buscar recetas por internet</td><td valign="top">Frecuentemente</td><td valign="top">Alta</td><td valign="top">Frecuentemente</td><td valign="top">Alta</td><td valign="top">Frecuentemente</td><td valign="top">Alta</td></tr>
+<tr><td valign="top">Buscar recetas en youtube</td><td valign="top">Casi siempre</td><td valign="top">Alta</td><td valign="top">Casi siempre</td><td valign="top">Alta</td><td valign="top">Casi siempre</td><td valign="top">Alta</td></tr>
+<tr><td valign="top">Buscar el valor nutricional de los alimentos</td><td valign="top">Casi nunca</td><td valign="top">Baja</td><td valign="top">Casi siempre</td><td valign="top">Media</td><td valign="top">A veces</td><td valign="top">Alta</td></tr>
+<tr><td valign="top">Reemplazar ingredientes en las recetas</td><td valign="top">A veces</td><td valign="top">Media</td><td valign="top">Casi nunca</td><td valign="top">Alta</td><td valign="top">Casi siempre</td><td valign="top">Alta</td></tr>
+<tr><td valign="top">Comer fuera de casa en restaurantes</td><td valign="top">Casi nunca</td><td valign="top">Baja</td><td valign="top">Casi siempre</td><td valign="top">Alta</td><td valign="top">A veces</td><td valign="top">Alta</td></tr>
+<tr><td valign="top">Buscar recetas escritas</td><td valign="top">Casi nunca</td><td valign="top">Baja</td><td valign="top">Casi siempre</td><td valign="top">Alta</td><td valign="top">Casi nunca</td><td valign="top">Baja</td></tr>
+</table>
+
+*Cocineros amateurs y profesionales:*
+
+
+<table><tr><th rowspan="2" valign="top"><p>Task</p><p>Matrix</p></th><th colspan="2" valign="top">Yessenia Vicente</th><th colspan="2" valign="top">Lucy Lopez</th><th colspan="2" valign="top">Italo Mendoza</th></tr>
+<tr><td valign="top">Frecuencia</td><td valign="top">Importancia</td><td valign="top">Frecuencia</td><td valign="top">Importancia</td><td valign="top">Frecuencia</td><td valign="top">Importancia</td></tr>
+<tr><td valign="top">Modificar recetas existentes</td><td valign="top">Casi siempre</td><td valign="top">Alta</td><td valign="top">Frecuentemente</td><td valign="top">Alta</td><td valign="top">Frecuentemente</td><td valign="top">Alta</td></tr>
+<tr><td valign="top">Compartir recetas</td><td valign="top">Siempre</td><td valign="top">Alta</td><td valign="top">A veces</td><td valign="top">Media</td><td valign="top">A veces</td><td valign="top">Media</td></tr>
+<tr><td valign="top">Buscar nuevas recetas</td><td valign="top">Casi siempre</td><td valign="top">Media</td><td valign="top">Casi siempre</td><td valign="top">Media</td><td valign="top">Siempre</td><td valign="top">Alta</td></tr>
+<tr><td valign="top">Cocinar en casa</td><td valign="top">Frecuentemente</td><td valign="top">Alta</td><td valign="top">A veces</td><td valign="top">Media</td><td valign="top">A veces</td><td valign="top">Media</td></tr>
+<tr><td valign="top">Analizar la crítica de los clientes</td><td valign="top">Casi siempre</td><td valign="top">Alta</td><td valign="top">Siempre</td><td valign="top">Alta</td><td valign="top">Frecuentemente</td><td valign="top">Alta</td></tr>
+<tr><td valign="top">Crear nuevas recetas</td><td valign="top">A veces</td><td valign="top">Media</td><td valign="top">Casi siempre</td><td valign="top">Alta</td><td valign="top">Frecuentemente</td><td valign="top">Alta</td></tr>
+</table>
+
+
+
+
+*2.3.3. User Journey Mapping.*
+
+*Estudiantes Universitarios:*
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150115536160686151/image.png)
+
+
+*Cocineros amateurs y profesionales:*
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150115596936171550/image.png)
+
+
+*2.3.4. Empathy Mapping.*
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150539359901200465/Universitario.png)
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150539325986046003/Cocineros.png)
+
+
+*2.3.5. As-is Scenario Mapping.*
+
+Segmento Objetivo #1:  *Estudiantes universitarios (18-25 años)* 
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150540557815398480/As-Is_Scenario_Mapping_Open_Source.jpg)
+
+Segmento Objetivo #2: *Cocineros amateurs y profesionales (25-35 años)*
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150540907242864811/As-Is_Scenario_Mapping_Open_Source_2.jpg)
+
+
+
+*Capítulo III: Requirements Specification*
+
+*3.1. To-Be Scenario Mapping.*
+
+Segmento Objetivo #1:  *Estudiantes universitarios (18-25 años)* 
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150540749419577525/As-Is_Scenario_Mapping_Open_Source_1.jpg)
+
+Segmento Objetivo #2: *Cocineros amateurs y profesionales (25-35 años)*
+
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150541065607196834/As-Is_Scenario_Mapping_Open_Source_3.jpg)
+
 **3.2. User Stories**
 
 

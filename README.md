@@ -410,7 +410,7 @@
 
 **3.3. Impact Mapping**
 
-![](Aspose.Words.ba9dd6b6-313d-4829-8611-38583ceea6cf.001.png)
+![](https://cdn.discordapp.com/attachments/1150112902737580138/1150504394480164974/ImpactMapping.png)
 
 **3.4. Product Backlog**
 

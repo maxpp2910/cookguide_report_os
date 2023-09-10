@@ -301,14 +301,14 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US001|**Epic ID**|EP001|
+|**User Story ID**|US001|**Epic ID**|EP001|
 | :- | :- | :- | :- |
 |**Title**|Registrar datos del usuario|||
 |**Description**|Como nuevo usuario, quiero registrarme en la app utilizando mi dirección de correo electrónico y una contraseña segura para poder acceder a todas las funciones.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Registro exitoso</p><p>**Dado que** un nuevo usuario quiere registrarse</p><p>**Cuando** ingresa un correo electrónico válido y una contraseña segura </p><p>**Y** presiona el botón de registro</p><p>**Entonces** se crea una cuenta con éxito y se le redirige a la página de inicio de sesión. </p><p></p><p>**Scenario 2:** Registro fallido</p><p>**Dado que** un nuevo usuario quiere registrarse</p><p>**Cuando** ingresa un correo electrónico válido y una contraseña que no cumple con los requisitos establecidos </p><p>**Y** presiona el botón de registro</p><p>**Entonces** se muestra un mensaje de error, indicando que la contraseña es incorrecta, y se le pide que ingrese una nueva.</p>||||
 
 
-|**Usert Story ID**|US002|**Epic ID**|EP001|
+|**User Story ID**|US002|**Epic ID**|EP001|
 | :- | :- | :- | :- |
 |**Title**|Elegir tipo de cuenta|||
 |**Description**|Como un nuevo usuario, quiero escoger el tipo de cuenta que deseo crearme para usar la herramientas y funcionalidades específicas y preferenciales de acuerdo con mi tipo de cuenta.|||
@@ -324,7 +324,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US003|**Epic ID**|EP001|
+|**User Story ID**|US003|**Epic ID**|EP001|
 | :- | :- | :- | :- |
 |**Title**|Restablecer contraseña|||
 |**Description**|Como usuario existente, quiero poder restablecer mi contraseña en caso de olvidarla, para poder recuperar el acceso a mi cuenta.|||
@@ -335,14 +335,14 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US004|**Epic ID**|EP001|
+|**User Story ID**|US004|**Epic ID**|EP001|
 | :- | :- | :- | :- |
 |**Title**|Iniciar sesión|||
 |**Description**|Como usuario, quiero poder iniciar sesión con mi cuenta de Google o Facebook para agilizar el proceso de inicio de sesión.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Iniciar sesión con cuenta de Google</p><p>**Dado que** el usuario desea iniciar sesión</p><p>**Cuando** el usuario selecciona la opción de iniciar sesión con su cuenta de Google en la página de inicio de sesión</p><p>**Y** proporciona las credenciales de su cuenta de Google</p><p>**Entonces** el sistema verifica las credenciales y permite al usuario iniciar sesión exitosamente con su cuenta de Google.</p><p></p><p>**Scenario 1:** Iniciar sesión con cuenta de Facebook</p><p>**Dado que** el usuario desea iniciar sesión</p><p>**Cuando** el usuario selecciona la opción de iniciar sesión con su cuenta de Facebook en la página de inicio de sesión</p><p>**Y** proporciona las credenciales de su cuenta de Facebook</p><p>**Entonces** el sistema verifica las credenciales y permite al usuario iniciar sesión exitosamente con su cuenta de Facebook.</p>||||
 
 
-|**Usert Story ID**|US005|**Epic ID**|EP001|
+|**User Story ID**|US005|**Epic ID**|EP001|
 | :- | :- | :- | :- |
 |**Title**|Verificar cuenta|||
 |**Description**|Como usuario, quiero recibir un correo electrónico de verificación después de registrarme para confirmar mi cuenta y garantizar la seguridad de mi información.|||
@@ -350,7 +350,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US006|**Epic ID**|EP001|
+|**User Story ID**|US006|**Epic ID**|EP001|
 | :- | :- | :- | :- |
 |**Title**|Recuperar cuenta|||
 |**Description**|Como usuario, quiero recuperar mi cuenta en caso de haber sido bloqueado por múltiples intentos o haya sido robado por un extraño para tener seguridad de toda mi información.|||
@@ -361,7 +361,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US007|**Epic ID**|EP002|
+|**User Story ID**|US007|**Epic ID**|EP002|
 | :- | :- | :- | :- |
 |**Title**|Establecer preferencia dietética|||
 |**Description**|Como usuario, quiero poder establecer mis preferencias dietéticas (como vegetariano y mis alergias a los frutos secos, por ejemplo), para que las recetas sugeridas sean acordes a mis necesidades.|||
@@ -369,7 +369,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US008|**Epic ID**|EP002|
+|**User Story ID**|US008|**Epic ID**|EP002|
 | :- | :- | :- | :- |
 |**Title**|Información de la salud del usuario|||
 |**Description**|Como usuario, quiero poder ingresar mi información de salud, como peso y altura, para establecer metas y recibir recomendaciones más personalizadas.|||
@@ -377,7 +377,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US009|**Epic ID**|EP002|
+|**User Story ID**|US009|**Epic ID**|EP002|
 | :- | - | :- | - |
 |**Title**|Resumen de metas y preferencias |||
 |**Description**|Como usuario, quiero poder ver un resumen de mis metas y preferencias en mi perfil para tener un recordatorio visual de mis objetivos.|||
@@ -385,7 +385,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US010|**Epic ID**|EP002|
+|**User Story ID**|US010|**Epic ID**|EP002|
 | :- | :- | :- | :- |
 |**Title**|Configurar perfil |||
 |**Description**|Como usuario, quiero poder configurar mi perfil personal en la aplicación, para personalizar más mi experiencia en la app, y recibir recomendaciones más precisas basadas en mi perfil.|||
@@ -393,7 +393,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US011|**Epic ID**|EP003|
+|**User Story ID**|US011|**Epic ID**|EP003|
 | :- | :- | :- | :- |
 |**Title**|Recetas recomendadas|||
 |**Description**|Como usuario, quiero explorar recetas recomendadas según mis preferencias y metas para armar un plan alimenticio específico.|||
@@ -401,7 +401,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US012|**Epic ID**|EP003|
+|**User Story ID**|US012|**Epic ID**|EP003|
 | :- | :- | :- | :- |
 |**Title**|Plan semanal de compras|||
 |**Description**|Como usuario, quiero poder arrastrar y soltar recetas en mi plan semanal, ajustando automáticamente la lista de compras.|||
@@ -412,7 +412,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US013|**Epic ID**|EP003|
+|**User Story ID**|US013|**Epic ID**|EP003|
 | :- | :- | :- | :- |
 |**Title**|Generar lista de compras|||
 |**Description**|Como usuario, quiero recibir una lista de compras consolidada basada en las recetas que he agregado a mi plan, facilitando mi preparación para la semana.|||
@@ -420,7 +420,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US014|**Epic ID**|EP003|
+|**User Story ID**|US014|**Epic ID**|EP003|
 | :- | - | :- | - |
 |**Title**|Plan alimenticio|||
 |**Description**|Como usuario, quiero poder guardar múltiples planes alimenticios personalizados para diferentes semanas o propósitos.|||
@@ -428,7 +428,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US015|**Epic ID**|EP003|
+|**User Story ID**|US015|**Epic ID**|EP003|
 | :- | :- | :- | :- |
 |**Title**|Compartir plan alimenticio|||
 |**Description**|Como usuario, quiero poder compartir mi plan alimenticio con mis amigos o familiares de manera rápida para que me den su opinión acerca de mi plan alimenticio.|||
@@ -440,7 +440,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US016|**Epic ID**|EP003|
+|**User Story ID**|US016|**Epic ID**|EP003|
 | :- | :- | :- | :- |
 |**Title**|Exportar plan alimenticio|||
 |**Description**|Como usuario, quiero poder exportar mi plan en formato PDF o similar para transportar la información de manera más sencilla y práctica.|||
@@ -448,7 +448,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US017|**Epic ID**|EP003|
+|**User Story ID**|US017|**Epic ID**|EP003|
 | :- | :- | :- | :- |
 |**Title**|Recetas personalizadas|||
 |**Description**|Como usuario, quiero tener recetas personalizadas con ingredientes específicos y especializado a mi gusto para cocinar la receta con una guía sencilla.|||
@@ -462,7 +462,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US018|**Epic ID**|EP003|
+|**User Story ID**|US018|**Epic ID**|EP003|
 | :- | :- | :- | :- |
 |**Title**|Pedir comida personalizada|||
 |**Description**|Como usuario, quiero tener la comida que escojo preparada en mi domicilio para consumir la propuesta y dar una reseña de la receta y preparación.|||
@@ -470,170 +470,240 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US019|**Epic ID**|EP004|
+|**User Story ID**|US019|**Epic ID**|EP004|
 | :- | :- | :- | :- |
 |**Title**|Suscripción|||
 |**Description**|Como usuario, quiero ver las opciones de suscripción disponibles junto con sus beneficios para poder elegir la que mejor se adapte a mis necesidades.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Visualizar opciones de suscripción</p><p>**Dado que** el usuario quiere conocer las opciones de suscripción disponibles</p><p>**Cuando** accede a la sección de suscripción en la aplicación</p><p>**Entonces** el usuario puede ver las distintas opciones de suscripción junto con sus beneficios para elegir la que mejor se adapte a sus necesidades.</p>||||
 
 
-|**Usert Story ID**|US020|**Epic ID**|EP004|
+|**User Story ID**|US020|**Epic ID**|EP004|
 | :- | :- | :- | :- |
 |**Title**|Ingresar información de pago|||
 |**Description**|Como usuario, quiero ingresar mi información de pago de forma segura para suscribirme al plan premium de la app.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Ingreso seguro de información de pago</p><p>**Dado que** el usuario desea suscribirse al plan premium de la aplicación  </p><p>**Cuando** selecciona la opción de suscripción premium dentro de la app</p><p>**Entonces** la aplicación le solicita ingresar su información de pago de forma segura</p><p>**Y** el usuario proporciona los detalles de su tarjeta de crédito u otra forma de pago.</p><p></p><p>**Scenario 2:** Confirmación de la suscripción premium</p><p>**Dado que** el usuario ha ingresado su información de pago</p><p>**Cuando** complete el proceso de suscripción premium dentro de la aplicación</p><p>**Entonces** la aplicación verifica la información de pago y confirma la suscripción al plan premium, brindando al usuario acceso a las características y beneficios premium de la app.</p>||||
 
 
-|**Usert Story ID**|US021|**Epic ID**|EP004|
+|**User Story ID**|US021|**Epic ID**|EP004|
 | :- | :- | :- | :- |
 |**Title**|Notificar facturación|||
 |**Description**|Como usuario, quiero recibir notificaciones sobre el vencimiento de mi suscripción y renovación automática para mantener el acceso sin interrupciones.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Notificación del vencimiento de suscripción</p><p>**Dado que** el usuario tiene una suscripción activa</p><p>**Cuando** se acerca la fecha de vencimiento de su suscripción dentro de la aplicación</p><p>**Entonces** la aplicación envía una notificación al usuario informándole sobre el próximo vencimiento y la renovación automática de su suscripción para mantener el acceso sin interrupciones.</p><p></p><p>**Scenario 2:** Confirmación de renovación automática</p><p>**Dado que** el usuario ha recibido una notificación sobre la renovación automática de su suscripción</p><p>**Cuando** la fecha de renovación llega dentro de la aplicación</p><p>**Entonces** la aplicación renueva automáticamente la suscripción del usuario, garantizando que mantenga el acceso sin interrupciones a las características y beneficios de su suscripción.</p>||||
 
 
-|**Usert Story ID**|US022|**Epic ID**|EP004|
+|**User Story ID**|US022|**Epic ID**|EP004|
 | :- | :- | :- | :- |
 |**Title**|Cancelar suscripción|||
 |**Description**|Como usuario, quiero poder cancelar mi suscripción en cualquier momento y recibir confirmación de que no se me cobrará en el próximo ciclo.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Cancelar suscripción</p><p>**Dado que** el usuario desea cancelar su suscripción en la aplicación</p><p>**Cuando** accede a la sección de administración de suscripción dentro de la aplicación</p><p>**Y** selecciona la opción para cancelar la suscripción</p><p>**Entonces** la aplicación confirma la cancelación y garantiza que no se realicen cargos en el próximo ciclo de facturación.</p>||||
 
 
-|**Usert Story ID**|US023|**Epic ID**|EP004|
+|**User Story ID**|US023|**Epic ID**|EP004|
 | :- | :- | :- | :- |
 |**Title**|Pagar recetas especiales |||
 |**Description**|Como usuario, quiero poder pagar por recetas especificas con todas mis especificaciones para poder realizarlo en mi casa tranquilamente.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Selección y pago de receta específica** </p><p>**Dado que** el usuario quiere adquirir una receta específica en la aplicación</p><p>**Cuando** navega por las recetas disponibles y selecciona la que desea comprar</p><p>**Y** procede a realizar el pago dentro de la aplicación</p><p>**Entonces** la aplicación procesa el pago de la receta con todas las especificaciones y proporciona al usuario acceso a la receta completa para prepararla en casa.</p><p></p><p>**Scenario 2:** Historial de compras y descarga de receta específica </p><p>**Dado que** el usuario ha comprado recetas específicas en la aplicación en el pasado</p><p>**Cuando** accede a su historial de compras dentro de la aplicación</p><p>**Y** selecciona una receta previamente adquirida</p><p>**Entonces** la aplicación permite al usuario descargar nuevamente la receta con todas las especificaciones, lo que le permite prepararla en casa según sus necesidades.</p><p></p>||||
 
 
-|**Usert Story ID**|US024|**Epic ID**|EP004|
+|**User Story ID**|US024|**Epic ID**|EP004|
 | :- | :- | :- | :- |
 |**Title**|Pagar pedidos especiales|||
 |**Description**|Como usuario, quiero poder pagar para que las comidas de recetas que vi en la aplicación estén en mi domicilio para consumirlo en mi casa de forma sencilla.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Pago de pedidos especiales</p><p>**Dado que** el usuario desea recibir las comidas de recetas que ha visto en la aplicación en su domicilio</p><p>**Cuando** selecciona las comidas específicas que desea ordenar dentro de la aplicación</p><p>**Y** accede a la opción de pago y proporciona la información de pago requerida</p><p>**Entonces** la aplicación procesa el pago y registra el pedido, permitiendo que las comidas sean entregadas en su domicilio para que las consuma de forma sencilla en casa.</p><p></p><p>**Scenario 2:** Seguimiento y entrega de pedidos especiales</p><p>**Dado que** el usuario ha realizado un pedido especial</p><p>**Cuando** accede a la sección de seguimiento de pedidos dentro de la aplicación</p><p>**Y** realiza un seguimiento del estado de su pedido mientras está en camino hacia su domicilio</p><p>**Entonces** la aplicación proporciona actualizaciones en tiempo real sobre la entrega y garantiza que las comidas lleguen de manera sencilla a su casa para su consumo.</p><p></p>||||
 
 
-|**Usert Story ID**|US025|**Epic ID**|EP004|
+|**User Story ID**|US025|**Epic ID**|EP004|
 | :- | :- | :- | :- |
 |**Title**|Descuentos|||
 |**Description**|Como usuario, quiero descuentos por los distintos pagos por eventos especiales o por ser cliente frecuente para tener beneficios por el uso de la aplicación.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Obtención de descuento</p><p>**Dado que** el usuario utiliza la aplicación</p><p>**Cuando** se cumplen los criterios para obtener un descuento, como participar en eventos especiales o ser un cliente recurrente</p><p>**Entonces** la aplicación automáticamente aplica el descuento correspondiente en los pagos, permitiendo al usuario disfrutar de los beneficios y descuentos por su uso continuo de la aplicación y su participación en eventos especiales.</p>||||
 
 
-|**Usert Story ID**|US026|**Epic ID**|EP005|
+|**User Story ID**|US026|**Epic ID**|EP005|
 | :- | :- | :- | :- |
 |**Title**|Publicar recetas|||
 |**Description**|Como cocinero, quiero poder crear y publicar nuevas recetas, adjuntando imágenes y descripciones detalladas para compartir mis creaciones.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Publicación de nueva receta</p><p>**Dado que** el cocinero ha publicado una recete previamente en la aplicación y desea realizar modificaciones</p><p>**Cuando** el cocinero inicia sesión en su cuenta de la aplicación y accede a la sección de creación de recetas</p><p>**Y** crea una receta completa con detalles, ingredientes, pasos de preparación e imágenes</p><p>**Entonces** la aplicación permite al cocinero publicar la nueva receta, haciéndola disponible para que otros usuarios la vean y prueben.</p>||||
 
 
-|**Usert Story ID**|US027|**Epic ID**|EP005|
+|**User Story ID**|US027|**Epic ID**|EP005|
 | :- | :- | :- | :- |
 |**Title**|Notificar interacción con recetas|||
 |**Description**|Como cocinero, quiero recibir notificaciones cuando los usuarios comenten o valoren mis recetas, para estar al tanto de la retroalimentación.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Notificación de comentarios en recetas</p><p>**Dado que** el cocinero desea estar al tanto de los comentarios de los usuarios en sus recetas</p><p>**Cuando** un usuario comenta una de las recetas del cocinero dentro de la aplicación</p><p>**Entonces** la aplicación envía una notificación al cocinero informándole sobre el comentario, lo que le permite ver la retroalimentación y responder si lo desea.</p><p></p><p>**Scenario 2:** Notificación de valoraciones en recetas</p><p>**Dado que** el cocinero desea recibir valoraciones de sus recetas</p><p>**Cuando** un usuario valora una de las recetas del cocinero otorgando calificaciones dentro de la aplicación</p><p>**Entonces** la aplicación notifica al cocinero sobre la valoración, proporcionándole información sobre cómo los usuarios perciben sus recetas y brindándole la oportunidad de mejorar su cocina.</p>||||
 
 
-|**Usert Story ID**|US028|**Epic ID**|EP005|
+|**User Story ID**|US028|**Epic ID**|EP005|
 | :- | :- | :- | :- |
 |**Title**|Editar recetas|||
 |**Description**|Como cocinero, quiero poder editar o retirar mis recetas en caso de que necesite hacer correcciones o eliminar contenido antiguo.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Edición de receta publicada</p><p>**Dado que** el cocinero ha publicado una receta previamente en la aplicación y desea realizar modificaciones</p><p>**Cuando** el cocinero accede a la lista de sus recetas publicadas y selecciona una receta para editar</p><p>**Y** realiza las ediciones necesarias en la descripción, ingredientes o pasos de preparación</p><p>**Entonces** la aplicación actualiza la receta con las modificaciones realizadas y permite al cocinero compartir las mejoras con otros usuarios.</p>||||
 
 
-|**Usert Story ID**|US029|**Epic ID**|EP005|
+|**User Story ID**|US029|**Epic ID**|EP005|
 | :- | :- | :- | :- |
 |**Title**|Mostrar métricas de las recetas|||
 |**Description**|Como cocinero, quiero ver un panel de control que muestre el rendimiento de mis recetas, como la cantidad de veces que han sido añadidas a planes alimenticios.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Visualización de métricas de recetas</p><p>**Dado que** el cocinero desea ver el rendimiento de sus recetas en la aplicación</p><p>**Cuando** el cocinero accede a su panel de control dentro de la aplicación</p><p>**Y** navega a la sección de métricas de recetas</p><p>**Entonces** la aplicación muestra estadísticas detalladas de la receta, proporcionando al cocinero información valiosa sobre la popularidad de sus creaciones.</p>||||
 
 
-|**Usert Story ID**|US030|**Epic ID**|EP005|
+|**User Story ID**|US030|**Epic ID**|EP005|
 | :- | :- | :- | :- |
 |**Title**|Gestionar recetas especiales|||
 |**Description**|Como cocinero, quiero aceptar, ver y recibir el dinero por hacer recetas especiales a los usuarios y cocinar dichas comidas para tener un mayor control de mi cuenta.  |||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Aceptación de recetas especiales</p><p>**Dado que** el cocinero desea aceptar recetas especiales solicitadas por los usuarios</p><p>**Cuando** el cocinero accede a la sección de gestión de recetas especiales dentro de la aplicación</p><p>**Y** revisa las solicitudes de recetas especiales de los usuarios</p><p>**Entonces** la aplicación le permite al cocinero aceptar las solicitudes de recetas especiales, lo que inicia el proceso de preparación y pago del mismo.</p><p></p><p>**Scenario 2:** Registro de pagos por recetas especiales</p><p>**Dado que** el cocinero ha preparado y entregado recetas especiales solicitadas por los usuarios</p><p>**Cuando** el cocinero marca como completada la preparación de una receta especial dentro de la aplicación</p><p>**Entonces** la aplicación registra automáticamente el pago por la receta especial y notifica al cocinero sobre el ingreso recibido.</p>||||
 
 
-|**Usert Story ID**|US031|**Epic ID**|EP006|
+|**User Story ID**|US031|**Epic ID**|EP006|
 | :- | :- | :- | :- |
 |**Title**|Calificar recetas|||
 |**Description**|Como usuario, quiero poder calificar las recetas con estrellas para expresar mi nivel de satisfacción con la receta.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Calificación de receta </p><p>**Dado que** el usuario desea calificar una receta dentro de la aplicación</p><p>**Cuando** el usuario accede a la receta que desea calificar</p><p>**Y** selecciona la opción de calificación mediante estrellas, siendo entre una a cinco estrellas</p><p>**Entonces** la aplicación registra la calificación del usuario y muestra la puntuación promedio de la receta basada en las calificaciones de todos los usuarios.</p>||||
 
 
-|**Usert Story ID**|US032|**Epic ID**|EP006|
+|**User Story ID**|US032|**Epic ID**|EP006|
 | :- | :- | :- | :- |
 |**Title**|Comentar recetas|||
 |**Description**|Como usuario, quiero poder dejar comentarios detallados en las recetas para compartir mis experiencias y sugerencias con otros usuarios.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Comentar una receta</p><p>**Dado que** el usuario desea compartir una experiencia o sugerencia sobre una receta en la aplicación</p><p>**Cuando** el usuario accede a la página de la receta que desea comentar</p><p>**Y** escribe su comentario en un espacio designado</p><p>**Entonces** la aplicación registra el comentario y lo muestra en la sección de comentarios de la receta, permitiendo a otros usuarios ver y responder a la retroalimentación.</p>||||
 
 
-|**Usert Story ID**|US033|**Epic ID**|EP006|
+|**User Story ID**|US033|**Epic ID**|EP006|
 | :- | :- | :- | :- |
 |**Title**|Visualizar calificaciones y comentarios de recetas |||
 |**Description**|Como usuario, quiero poder ver las calificaciones promedio de las recetas y los comentarios de otros usuarios para tomar decisiones informadas sobre qué recetas probar.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Visualización de calificaciones de receta </p><p>**Dado que** el usuario quiere ver las calificaciones de una receta en particular</p><p>**Cuando** el usuario ingresa a la página de una receta </p><p>**Entonces** la aplicación muestra –entre otra información– las calificaciones acumuladas para que el usuario pueda tener una idea de la satisfacción general sobre la receta.</p><p></p><p>**Scenario 2:** Visualización de comentarios de receta </p><p>**Dado que** el usuario quiere conocer las experiencias y sugerencias de otros usuarios sobre una receta en particular</p><p>**Cuando** el usuario visita la página de una receta en la aplicación</p><p>**Y** se** desplaza hacia abajo para leer los comentarios y retroalimentación de otros usuarios</p><p>**Entonces** la aplicación muestra los comentarios proporcionados por otros usuarios, lo que ayuda al usuario a tomar decisiones informadas sobre la receta y considerar las experiencias de quienes la han probado previamente.</p>||||
 
 
-|**Usert Story ID**|US034|**Epic ID**|EP006|
+|**User Story ID**|US034|**Epic ID**|EP006|
 | :- | :- | :- | :- |
 |**Title**|Notificar interacción con recetas |||
 |**Description**|Como usuario, quiero recibir notificaciones cuando alguien responda a mis comentarios para poder participar en conversaciones relacionadas con las recetas.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Notificación de respuestas a comentarios</p><p>**Dado que** el usuario desea estar al tanto de las respuestas a sus comentarios en la aplicación</p><p>**Cuando** el usuario comenta una receta y otro usuario responde a ese comentario</p><p>**Entonces** la aplicación envía una notificación al usuario que realizó el comentario inicial, informándole sobre la respuesta recibida y permitiéndole participar en la conversación relacionada con la receta.</p>||||
 
 
-|**Usert Story ID**|US035|**Epic ID**|EP006|
+|**User Story ID**|US035|**Epic ID**|EP006|
 | :- | :- | :- | :- |
 |**Title**|Calificación mensual especial|||
 |**Description**|Como usuario, quiero calificar de forma especial a la mejor receta que me gustó para que resalte frente a las demás recetas.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Calificación especial de la mejor receta del mes</p><p>**Dado que** el usuario desea destacar la mejor receta del mes en la aplicación</p><p>**Cuando** el usuario explora y prueba varias recetas durante el mes</p><p>**Y** al final de dicho mes, selecciona la receta que más le gustó de manera especial</p><p>**Entonces** la aplicación registra esta calificación especial y otorga un reconocimiento mayor a esa receta, destacándola como la mejor del mes.</p>||||
 
 
-|**Usert Story ID**|US036|**Epic ID**|EP007|
+|**User Story ID**|US036|**Epic ID**|EP007|
 | :- | :- | :- | :- |
 |**Title**|Búsqueda específica de recetas|||
 |**Description**|Como usuario, quiero poder buscar recetas utilizando palabras clave como "ensalada de quinua" para encontrar recetas específicas.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** Búsqueda de recetas** </p><p>**Dado que** el usuario desea buscar recetas en la aplicación</p><p>**Cuando** el usuario utiliza la función de búsqueda y escribe una palabra clave, como "ensalada de quinua"</p><p>**Y** pulsa el botón de búsqueda</p><p>**Entonces** la aplicación muestra resultados que coinciden con la palabra clave ingresada, permitiendo al usuario encontrar recetas específicas relacionadas con "ensalada de quinua".</p>||||
 
 
-|**Usert Story ID**|US037|**Epic ID**|EP007|
+|**User Story ID**|US037|**Epic ID**|EP007|
 | :- | :- | :- | :- |
 |**Title**|Filtrar por tipo de cocina|||
 |**Description**|Como usuario, quiero filtrar las recetas por tipo de cocina para explorar recetas de una región en particular.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** seleccionar filtro “tipo de cocina”</p><p>**Dado que** el usuario desea explorar recetas de una región específica en la aplicación</p><p>**Cuando** el usuario accede a la sección de búsqueda o exploración de recetas</p><p>**Y** selecciona un tipo de cocina, como "italiana" o "peruana", en las opciones de filtro</p><p>**Entonces** la aplicación muestra resultados de recetas que pertenecen a la región culinaria elegida, permitiendo al usuario explorar recetas específicas de esa cocina.</p>||||
 
 
-|**Usert Story ID**|US038|**Epic ID**|EP007|
+|**User Story ID**|US038|**Epic ID**|EP007|
 | :- | :- | :- | :- |
 |**Title**|Filtrar por tiempo de preparación|||
 |**Description**|Como usuario, quiero filtrar las recetas por tiempo de preparación para encontrar opciones rápidas para las noches ocupadas.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** seleccionar filtro “tiempo de preparación”</p><p>**Dado que** el usuario desea explorar recetas de acuerdo al tiempo de preparación</p><p>**Cuando** el usuario accede a la sección de búsqueda o exploración de recetas</p><p>**Y** selecciona un intervalo de tiempo de preparación en particular, en las opciones de filtro</p><p>**Entonces** la aplicación muestra resultados de recetas que puedan ser preparadas en el intervalo de tiempo seleccionado por el usuario.</p>||||
 
 
-|**Usert Story ID**|US039|**Epic ID**|EP007|
+|**User Story ID**|US039|**Epic ID**|EP007|
 | :- | :- | :- | :- |
 |**Title**|Filtrar por presupuesto diario|||
 |**Description**|Como usuario, quiero filtrar las recetas por el tipo de presupuesto diario con el que cuento para tener un mayor manejo en la hora de costear la comida.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** seleccionar filtro “presupuesto diario”</p><p>**Dado que** el usuario desea explorar recetas de acuerdo al presupuesto diario a gastar</p><p>**Cuando** el usuario accede a la sección de búsqueda o exploración de recetas</p><p>**Y** selecciona el presupuesto a gastar, en las opciones de filtro</p><p>**Entonces** la aplicación muestra resultados de recetas que puedan ser preparadas con el presupuesto seleccionado por el usuario.</p>||||
 
 
-|**Usert Story ID**|US040|**Epic ID**|EP007|
+|**User Story ID**|US040|**Epic ID**|EP007|
 | :- | :- | :- | :- |
 |**Title**|Filtrar por ingredientes |||
 |**Description**|Como usuario, quiero filtrar las recetas por el tipo que no puedo consumir para que no me recomienden recetas con dichos ingredientes.|||
 |<p>**Acceptance criteria:**</p><p>**Scenario 1:** seleccionar filtro “ingredientes”</p><p>**Dado que** el usuario desea explorar recetas de acuerdo a los ingredientes que contiene</p><p>**Cuando** el usuario accede a la sección de búsqueda o exploración de recetas</p><p>**Y** selecciona los ingredientes que quiere usar, en las opciones de filtro</p><p>**Entonces** la aplicación muestra resultados de recetas que puedan ser preparadas con los ingredientes seleccionados por el usuario.</p>||||
 
 
-
-
-|**Usert Story ID**|US041|**Epic ID**|EP007|
+|**User Story ID**|US041|**Epic ID**|EP007|
 | :- | :- | :- | :- |
 |**Title**|Guardar búsqueda|||
 |**Description**|Como usuario, quiero poder guardar mis búsquedas y filtros favoritos para acceder fácilmente a ellos en el futuro.|||
-|<p>**Acceptance criteria:**</p><p>**Scenario 1:** Guardar historial de búsqueda de recetas</p><p>**Dado que** el usuario está revisando las diferentes recetas</p><p>**Cuando** el usuario quiera tener las recetas buscadas para otro momento</p><p>**Y** abra la opción de “guardados”</p><p>**Entonces** el usuario podrá revisar todas las búsquedas de recetas realizadas que se guardaron.</p><p></p><p>**Scenario 1:** Guardar historial de filtros de recetas utilizados</p><p>**Dado que** el usuario está revisando las diferentes recetas</p><p>**Cuando** el usuario quiera tener los filtros de búsqueda utilizados para otro momento</p><p>**Y** abra la opción de “guardados”</p><p>**Entonces** el usuario podrá revisar todos los filtros utilizados que se guardaron.</p>||||
+|<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere poder guardar las búsquedas que realizo</p><p>**Cuando** entre en el buscador de recetas</p><p>**Y** le de click a su “historial de búsqueda”</p><p>**Y** le de click a “búsquedas guardadas”</p><p>**Entonces** encuentra todas las búsquedas que decidió guardar.</p><p></p><p>**Scenario 2:**</p><p>**Dado que** el usuario realiza búsquedas con ayuda de filtros</p><p>**Cuando** entre al buscador</p><p>**Y** use filtros para buscar mejores recetas</p><p>**Y** quiere guardar dichos filtros</p><p>**Entonces** marca la estrellita para guardarlo como filtro destacado</p>||||
 
 
-|**Usert Story ID**|US051|**Epic ID**|EP010|
+
+|**User Story ID**|US042|**Epic ID**|EP008|
+| :- | :- | :- | :- |
+|**Title**|Compartir recetas en redes sociales|||
+|**Description**|Como usuario, quiero poder compartir recetas en mis perfiles de redes sociales con un solo clic para inspirar a mis amigos y familiares.|||
+|<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** como usuario me gusta algunas recetas que me brinda</p><p>**Cuando** quiera mostrarle la receta a sus amigos </p><p>**Y** familiares, desea compartirlos por medio de sus redes sociales</p><p>**Entonces** le da click a “compartir”</p><p>**Y** selecciona la red social que quiera compartir la receta.</p>||||
+
+
+
+|**User Story ID**|US043|**Epic ID**|EP008|
+| :- | :- | :- | :- |
+|**Title**|Generar vista previa de receta a compartir en redes sociales|||
+|**Description**|Como usuario, quiero que la app muestre automáticamente una vista previa atractiva de la receta cuando comparta en redes sociales para captar la atención de mis seguidores.|||
+|<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere compartir en sus redes sociales su receta</p><p>**Cuando** le de click a “vista previa de la receta”</p><p>**Entonces** la aplicación le mostrará una vista previa atractiva antes de compartir.</p>||||
+
+
+
+|**User Story ID**|US044|**Epic ID**|EP008|
+| :- | :- | :- | :- |
+|**Title**|Vincular cuenta con Redes Sociales|||
+|**Description**|Como usuario, quiero poder conectar mi perfil de la app con mis cuentas de redes sociales para compartir mis logros y recetas favoritas de manera sincronizada.|||
+|<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere compartir sus logros y avances en la aplicación</p><p>**Cuando** entre al apartado “Vincular redes Sociales”</p><p>**Y** seleccione las redes sociales que quiere vincular</p><p>**Entonces** la aplicación le permite compartir de forma rápida los logros obtenidos</p><p>**Y** las recetas favoritas realizadas con éxito</p>||||
+
+
+
+|**User Story ID**|US045|**Epic ID**|EP008|
+| :- | - | :- | - |
+|**Title**|Reconocimientos por compartir recetas|||
+|**Description**|Como usuario, quiero recibir recompensas o insignias especiales por compartir recetas populares en mis redes sociales.|||
+|<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere recibir recompensas o insignias especiales</p><p>**Cuando** el usuario realiza los retos propuesto o recomienda la aplicación</p><p>**Y** va al apartado de “Reconocimientos”</p><p>**Entonces** el usuario puede recibir el agradecimiento</p><p>**Y** reclamar las recompensas recibidas</p>||||
+
+
+
+|**User Story ID**|US046|**Epic ID**|EP008|
+| :- | :- | :- | :- |
+|**Title**|Recomendar la aplicación|||
+|**Description**|Como usuario, quiero recomendar la aplicación a mis amigos de forma sencilla y rápida para que puedan probar todos los servicios que ofrece la aplicación y recibir beneficios a cambio.|||
+|<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** al usuario le gusta tanto la aplicación que quiera recomendarlo</p><p>**Cuando** ingrese al apartado de “Recomendar aplicación”</p><p>**Y** seleccione porqué medio</p><p>**Y** a quienes quiere recomendar</p><p>**Entonces** la aplicación fue recomendada con exito</p><p>**Y** la aplicación le da algunas recompensas por recomendar la app.</p>||||
+
+
+
+|**User Story ID**|US047|**Epic ID**|EP009|
+| :- | :- | :- | :- |
+|**Title**|Lista de ingredientes|||
+|**Description**|Como usuario, quiero poder ver una lista de los ingredientes necesarios para las recetas seleccionadas en mi plan alimenticio semanal.|||
+|<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere ver una lista de ingredientes</p><p>**Cuando** entre en la receta seleccionada</p><p>**Y** vaya al apartado de ver ingredientes</p><p>**Entonces** puede observar toda la lista de ingredientes que entra en la receta</p>||||
+
+
+
+|**User Story ID**|US048|**Epic ID**|EP009|
+| :- | :- | :- | :- |
+|**Title**|Seleccionar ingredientes|||
+|**Description**|Como usuario, quiero poder marcar los ingredientes que ya tengo en casa para que la lista de compras se ajuste automáticamente.|||
+|<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario tiene ingredientes en su hogar</p><p>**Y** quiere comprar sólo lo necesario para preparar dicha receta</p><p>**Cuando** le de click al apartado “Ingredientes que poseo”</p><p>**Y** marque todos los ingredientes que tiene el usuario</p><p>**Entonces** la aplicación le agregará en la lista de compras los ingredientes que le falta</p>||||
+
+
+
+|**User Story ID**|US049|**Epic ID**|EP009|
+| :- | :- | :- | :- |
+|**Title**|Personalizar lista de compras|||
+|**Description**|Como usuario, quiero poder agregar elementos adicionales a la lista de compras, como productos de limpieza, para asegurarse de tener todo lo que necesito.|||
+|<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiere agregar más alimentos para su lista de compras</p><p>**Cuando** dé click en “personalizar lista de compras”</p><p>**Y** escoja los nuevos productos que desea comprar</p><p>**Entonces** se generará la nueva lista que puede ser exportada o compartida.</p>||||
+
+
+
+|**User Story ID**|US050|**Epic ID**|EP009|
+| :- | :- | :- | :- |
+|**Title**|Compartir lista de compras|||
+|**Description**|Como usuario, quiero poder enviar mi lista de compras por correo electrónico o mensaje de texto para llevarla conmigo al supermercado.|||
+|<p>**Acceptance criteria:**</p><p>**Scenario 1:**</p><p>**Dado que** el usuario quiera compartir mi lista de compras </p><p>**Cuando** ingresa a la aplicación </p><p>**Y** da click en “Compartir Lista” </p><p>**Entonces** le permite llevarse la lista en su correo o como mensaje de texto</p>||||
+
+
+|**User Story ID**|US051|**Epic ID**|EP010|
 | :- | :- | :- | :- |
 |**Title**|Seguimiento del progreso|||
 |**Description**|Como usuario, quiero ver un seguimiento de mi progreso hacia mis objetivos de salud, como la cantidad de calorías consumidas o el aumento de peso.|||
@@ -641,7 +711,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US052|**Epic ID**|EP010|
+|**User Story ID**|US052|**Epic ID**|EP010|
 | :- | :- | :- | :- |
 |**Title**|Sistema de recordatorios|||
 |**Description**|Como usuario, quiero recibir recordatorios y notificaciones para registrar mi ingesta de alimentos y seguimiento de ejercicios diariamente.|||
@@ -649,7 +719,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US053|**Epic ID**|EP010|
+|**User Story ID**|US053|**Epic ID**|EP010|
 | :- | :- | :- | :- |
 |**Title**|Métricas del progreso del usuario|||
 |**Description**|Como usuario, quiero visualizar gráficos y datos que muestren mi evolución a lo largo del tiempo para motivarme a mantenerme en el camino correcto.|||
@@ -657,7 +727,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US054|**Epic ID**|EP010|
+|**User Story ID**|US054|**Epic ID**|EP010|
 | :- | - | :- | :- |
 |**Title**|Sistema de hitos y felicitaciones|||
 |**Description**|Como usuario, quiero poder establecer hitos y objetivos a corto y largo plazo, y recibir celebraciones virtuales cuando los alcance.|||
@@ -665,7 +735,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US055|**Epic ID**|EP010|
+|**User Story ID**|US055|**Epic ID**|EP010|
 | :- | - | :- | - |
 |**Title**|Retos de la aplicación|||
 |**Description**|Como usuario, quiero realizar los retos que me da la aplicación para obtener acceso a las recompensas que brindan.|||
@@ -673,7 +743,7 @@ Nuestro último segmento objetivo abarca a las personas que, ya sean madres de f
 
 
 
-|**Usert Story ID**|US056|**Epic ID**|EP010|
+|**User Story ID**|US056|**Epic ID**|EP010|
 | :- | - | :- | - |
 |**Title**|Acceso a descuentos|||
 |**Description**|Como usuario, quiero obtener descuentos por ser un cliente muy activo en la aplicación aprovechándola al máximo y cumpliendo los retos propuestos para recibir descuentos en varios de los servicios que ofrecemos.|||
